@@ -1,6 +1,16 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+![Screenshot_1713693265](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/01910469-e128-413b-bfd3-66295c4a8e5f)
+![Screenshot_1713693557](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/ec7b389a-2d52-46bc-bc19-e8649efd22e3)
+![Screenshot_1713693561](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/519c725b-b66a-4bbf-b553-c520ab5fffef)
+![Screenshot_1713693565](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/74d599ac-75c9-4b53-987a-66b9bf74ed81)
+![Screenshot_1713693577](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/04ace37b-7e4a-432a-802a-f311ac57b232)
+
+![Screenshot_1713693572](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/718673bd-78e6-4df2-8107-fe625d93ecff)
+![Screenshot_1713693585](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/91ebc342-9658-4935-8343-e742e43bb8b2)
+
+![Screenshot_1713693590](https://github.com/mackah2109/SnabbTech_Assessment/assets/104051228/d42d8620-ea26-4bed-8dae-1a5a384e8b1a)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
